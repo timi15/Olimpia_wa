@@ -1,0 +1,50 @@
+body{
+    background-color: #000000;
+    color: #000000;
+
+}
+
+a:link, a:hover, a:active, a:visited{
+    color: #000000;
+    
+}
+
+#elsooszlop{
+    vertical-align: top;
+    width: 100px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: gold;
+    width: 800px;
+
+}
+table td{
+    border-width: 2px;
+    border-style: double;
+    border-color: #000000;
+    padding: 10px;
+}
+#cimsor{
+    text-align: center;
+}
+
+#szoveg{
+    text-align: justify;
+    padding: 5px;
+}
+
+#harom{
+    color: darkred;
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 20px;
+}
+
+#kep{
+    float: right;
+    padding-left: 5px;
+}
